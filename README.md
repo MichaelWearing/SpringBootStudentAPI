@@ -1,1 +1,3 @@
-"# SpringBootStudentAPI" 
+# SpringBootStudentAPI
+
+Basic SpringBoot Student API
